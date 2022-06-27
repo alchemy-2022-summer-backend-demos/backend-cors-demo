@@ -51,6 +51,7 @@ describe('users', () => {
       user_id: user.id,
       description: 'eggs',
       qty: 12,
+      bought: false,
     });
   });
 
